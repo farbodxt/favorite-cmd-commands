@@ -1,0 +1,16 @@
+#!bash
+
+git init
+
+ #Usage: git init [repository name]
+ #This command is used to start a new repository.
+
+git commit
+ #Usage: git commit -m “[ Type in the commit message]”  
+
+ #This command records or snapshots the file permanently in the version history.
+
+git push
+ #Usage: git push [variable name] master  
+
+ #This command sends the committed changes of master branch to your remote repository.
